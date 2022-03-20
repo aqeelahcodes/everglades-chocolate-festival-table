@@ -16,6 +16,6 @@ Allows attendees to keep track of what events are happening on what dates
 - - Step5: Deployed the app using GitHub Pages
 
 ## Live Preview
-
+https://aqeelahcodes.github.io/everglades-chocolate-festival-table/
 ![image](https://user-images.githubusercontent.com/70718104/159186169-bc105c34-6b53-4e55-8eed-a9da1393a3be.png)
 
