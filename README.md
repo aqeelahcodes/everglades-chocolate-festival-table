@@ -13,7 +13,7 @@ Allows attendees to keep track of what events are happening on what dates
 - Step 1: Ran IDE Visual Studio Code with its built-in command line to create 1 folder containing 2 files index.html and style.css  
 - Step 2: In HTML designed a table to display time, event title, and footer of the page
 - Step 3: In CSS removed default styles and created custom styles for the html elements and also imported fonts form Google 
-- - Step5: Deployed the app using GitHub Pages
+- Step5: Deployed the app using GitHub Pages
 
 ## Live Preview
 https://aqeelahcodes.github.io/everglades-chocolate-festival-table/
